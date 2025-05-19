@@ -20,6 +20,7 @@ This lab demonstrates how data can be covertly exfiltrated using DNS tunneling t
 dns-tunneling-lab/
 ├── README.md
 ├── setup-guide.md
+├── launch the listener
 ├── exfiltration-script.ps1
 ├── wireshark-capture-sample.pcapng
 └── screenshots/
