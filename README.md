@@ -22,7 +22,6 @@ dns-tunneling-lab/
 ├── setup-guide.md
 ├── exfiltration-script.ps1
 ├── wireshark-capture-sample.pcapng
-├── auditd-rules.conf
 └── screenshots/
 ```
 
