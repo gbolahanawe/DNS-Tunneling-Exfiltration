@@ -5,9 +5,9 @@ This lab demonstrates how data can be covertly exfiltrated using DNS tunneling t
 ## 🔧 Tools Used
 - DNSExfiltrator (PowerShell)
 - Wireshark
-- Auditd
 - Kali Linux / Windows VM
-- Custom domain: `mydomain.local`
+- Custom domain: `mydomain.local
+  
 
 ## 🧪 Lab Objectives
 - Simulate DNS-based data exfiltration
