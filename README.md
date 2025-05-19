@@ -28,8 +28,7 @@ dns-tunneling-lab/
 ## 🚀 How to Use
 1. Follow the instructions in `setup-guide.md`
 2. Run the DNSExfiltrator script from the victim machine
-3. Monitor network traffic and Auditd logs
-4. Analyze findings with Wireshark
+3. Analyze findings with Wireshark
 
 ## 📸 Screenshots
 Screenshots of execution and detection are stored in the `screenshots/` directory.
